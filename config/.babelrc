@@ -1,0 +1,7 @@
+{
+  "extends": "./../node_modules/dh-dependency-base/config/.babelrc"],
+  "plugins": [
+    "@babel/plugin-transform-react-jsx",
+    "@babel/plugin-transform-runtime"
+  ]
+}
