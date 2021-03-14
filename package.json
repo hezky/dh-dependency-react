@@ -1,6 +1,6 @@
 {
   "author": "David Hezky",
-  "description": "web dependency",
+  "description": "react dependency",
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.12.17",
     "@babel/plugin-transform-runtime": "^7.13.7",
