@@ -1,5 +1,5 @@
 {
-  "extends": "./../../../node_modules/@dh-js/dependency-base/config/.babelrc",
+  "extends": "./../../../../node_modules/@dh-js/dependency-base/config/.babelrc",
   "plugins": [
     "@babel/plugin-transform-react-jsx",
     "@babel/plugin-transform-runtime"
