@@ -11,6 +11,6 @@
   ],
   "license": "MIT",
   "main": "src/js/index.js",
-  "name": "@dh-js/dependency-react",
+  "name": "@dh-dependency/react",
   "version": "0.0.11"
 }
