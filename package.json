@@ -6,8 +6,8 @@
   "description": "react dependency",
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.14.9",
-    "@babel/plugin-transform-runtime": "^7.14.5",
-    "@dh-dependency/base": "^0.0.53"
+    "@babel/plugin-transform-runtime": "^7.15.0",
+    "@dh-dependency/base": "^0.0.55"
   },
   "files": [
     "config"
