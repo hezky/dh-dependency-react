@@ -13,6 +13,7 @@
     "plugin:react/recommended"
   ],
   "parserOptions": {
+    "allowImportExportEverywhere": true,
     "babelOptions": {
       "plugins": [
         "@babel/plugin-proposal-class-properties",
@@ -34,6 +35,12 @@
       "jsx": true
     },
     "ecmaVersion": "latest",
-    "source": "module"
+    "source": "module",
+    "sourceType": "module"
+  },
+  "settings": {
+    "react": {
+      "version": "17.0"
+    }
   }
 }
