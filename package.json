@@ -5,10 +5,10 @@
   },
   "description": "react dependency",
   "dependencies": {
-    "@babel/plugin-transform-react-jsx": "^7.19.0",
+    "@babel/plugin-transform-react-jsx": "^7.20.7",
     "@babel/plugin-transform-runtime": "^7.19.6",
-    "@dh-dependency/base": "^0.1.7",
-    "eslint-plugin-react": "^7.31.10"
+    "@dh-dependency/base": "^0.1.9",
+    "eslint-plugin-react": "^7.31.11"
   },
   "files": [
     "config"
